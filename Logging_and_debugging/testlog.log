@@ -1,0 +1,4 @@
+INFO:root:this is my info tag
+ERROR:root:this is my error tag
+CRITICAL:root:this is my critical tag
+WARNING:root:this is my warning tag

@@ -1,0 +1,84 @@
+2023-08-19 13:15:22,963 root INFO This is new info tag
+2023-08-19 13:17:21,854 root DEBUG This is the new debug tag
+
+2023-08-19 13:42:39,764 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:42:39,765 root INFO this is the 1 of the element from the list
+2023-08-19 13:42:39,765 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:42:39,765 root INFO this is the 2 of the element from the list
+2023-08-19 13:42:39,765 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:42:39,765 root INFO this is the 3 of the element from the list
+2023-08-19 13:42:39,765 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:42:39,765 root INFO this is the 4 of the element from the list
+2023-08-19 13:42:39,765 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:42:39,765 root INFO this is the [1, 2, 2] of the element from the list
+2023-08-19 13:42:39,765 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:42:39,765 root INFO this is the Basav of the element from the list
+2023-08-19 13:42:39,765 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:42:39,765 root INFO this is the Gurav of the element from the list
+2023-08-19 13:50:38,204 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:50:38,204 root INFO this is the 1 of the element from the list
+2023-08-19 13:50:38,204 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:50:38,204 root INFO this is the 2 of the element from the list
+2023-08-19 13:50:38,204 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:50:38,204 root INFO this is the 3 of the element from the list
+2023-08-19 13:50:38,204 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:50:38,204 root INFO this is the 4 of the element from the list
+2023-08-19 13:50:38,204 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:50:38,205 root INFO this is the [1, 2, 2] of the element from the list
+2023-08-19 13:51:29,725 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:51:29,725 root INFO this is the 1 of the element from the list
+2023-08-19 13:51:29,725 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:51:29,725 root INFO this is the 2 of the element from the list
+2023-08-19 13:51:29,726 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:51:29,726 root INFO this is the 3 of the element from the list
+2023-08-19 13:51:29,726 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:51:29,726 root INFO this is the 4 of the element from the list
+2023-08-19 13:51:29,726 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:51:29,726 root INFO this is the [1, 2, 2] of the element from the list
+2023-08-19 13:52:40,264 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:52:40,265 root INFO this is the 1 of the element from the list
+2023-08-19 13:52:40,265 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:52:40,265 root INFO this is the 2 of the element from the list
+2023-08-19 13:52:40,265 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:52:40,265 root INFO this is the 3 of the element from the list
+2023-08-19 13:52:40,265 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:52:40,265 root INFO this is the 4 of the element from the list
+2023-08-19 13:52:40,265 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:52:40,265 root INFO this is the [1, 2, 2] of the element from the list
+2023-08-19 13:52:40,265 root INFO this is the value of i [1, 2, 2] and this is the value of j 1
+2023-08-19 13:52:40,266 root INFO this is the value of i [1, 2, 2] and this is the value of j 2
+2023-08-19 13:52:40,266 root INFO this is the value of i [1, 2, 2] and this is the value of j 2
+2023-08-19 13:52:40,266 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:52:40,266 root INFO this is the Basav of the element from the list
+2023-08-19 13:52:40,266 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-19 13:52:40,266 root INFO this is the Gurav of the element from the list
+2023-08-19 13:52:40,266 root INFO Code completed successfully and final lists: string list ['Basav', 'Gurav'] and integer list [1, 2, 3, 4, 1, 2, 2]
+2023-08-19 14:57:35,112 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-08-19 14:57:35,115 Comm WARNING No such comm: 217185d1-279c-47d2-a4ff-8bee5660834c
+2023-08-19 14:57:35,115 Comm DEBUG Current comms: []
+2023-08-19 14:58:04,410 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-08-19 14:58:04,412 Comm WARNING No such comm: da6636de-4550-4910-9625-2245d3eb18d2
+2023-08-19 14:58:04,412 Comm DEBUG Current comms: []
+2023-08-20 04:40:15,948 root INFO This is new info tag
+2023-08-20 04:40:16,165 root DEBUG This is the new debug tag
+2023-08-20 04:40:16,989 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-20 04:40:16,990 root INFO this is the 1 of the element from the list
+2023-08-20 04:40:16,990 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-20 04:40:16,990 root INFO this is the 2 of the element from the list
+2023-08-20 04:40:16,990 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-20 04:40:16,990 root INFO this is the 3 of the element from the list
+2023-08-20 04:40:16,990 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-20 04:40:16,990 root INFO this is the 4 of the element from the list
+2023-08-20 04:40:16,990 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-20 04:40:16,990 root INFO this is the [1, 2, 2] of the element from the list
+2023-08-20 04:40:16,990 root INFO this is the value of i [1, 2, 2] and this is the value of j 1
+2023-08-20 04:40:16,990 root INFO this is the value of i [1, 2, 2] and this is the value of j 2
+2023-08-20 04:40:16,990 root INFO this is the value of i [1, 2, 2] and this is the value of j 2
+2023-08-20 04:40:16,991 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-20 04:40:16,991 root INFO this is the Basav of the element from the list
+2023-08-20 04:40:16,991 root INFO this is my first for loop [1, 2, 3, 4, [1, 2, 2], 'Basav', 'Gurav']
+2023-08-20 04:40:16,991 root INFO this is the Gurav of the element from the list
+2023-08-20 04:40:16,991 root INFO Code completed successfully and final lists: string list ['Basav', 'Gurav'] and integer list [1, 2, 3, 4, 1, 2, 2]
+2023-08-20 05:08:19,237 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-08-20 05:08:19,241 Comm WARNING No such comm: ea737eea-0a01-4ae0-81a8-4db821d9e2a3
+2023-08-20 05:08:19,241 Comm DEBUG Current comms: []

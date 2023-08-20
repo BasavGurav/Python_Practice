@@ -1,0 +1,10 @@
+DEBUG:root:this is my info tag
+2023-08-19 13:07:25,107 this is my info tag
+2023-08-19 13:08:01,373 this is my info tag
+2023-08-19 13:08:23,691 this is my info tag
+2023-08-19 13:09:14,627 this is my debug tag
+2023-08-19 13:09:18,327 this is info message
+2023-08-19 13:09:42,032 this is my warning message
+2023-08-20 04:40:14,717 this is my debug tag
+2023-08-20 04:40:15,034 this is info message
+2023-08-20 04:40:15,260 this is my warning message
